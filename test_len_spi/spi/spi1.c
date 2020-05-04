@@ -1,7 +1,7 @@
 /*
 *Name: spi-linux.c 
 *Purpose: Communicate SPI with LC898201s
-*Author: ThangLMb
+*Author:
 *Date: 12/06/2019
 *Purpose: SPI communicate on Linux
 */
